@@ -1010,7 +1010,11 @@ body {
   z-index: 100;
 }
 
-@import url('https://fonts.cdnfonts.com/css/amsterdam-four');
+<style>
+@import url('https://fonts.cdnfonts.com/css/eilysa-luise');
+font-family: 'eilysa luise DEMO', sans-serif;
+</style>
+
 
 .text-overlay {
     position: absolute;
