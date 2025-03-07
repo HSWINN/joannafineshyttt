@@ -1009,4 +1009,20 @@ body {
   text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
   z-index: 100;
 }
+
+@import url('https://fonts.cdnfonts.com/css/amsterdam-four');
+
+.text-overlay {
+    position: absolute;
+    top: 5%; /* Moves text up */
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Amsterdam Four', cursive;
+    color: white;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    z-index: 100;
+}
+
 /*# sourceMappingURL=style.css.map */
